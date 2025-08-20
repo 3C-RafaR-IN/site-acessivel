@@ -87,7 +87,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#Palmeiras .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -190,7 +190,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #Palmeiras {
     background: none;
 }
 
@@ -201,6 +201,7 @@ h2 {
     background: none;
 
 }
+
 
 
 
